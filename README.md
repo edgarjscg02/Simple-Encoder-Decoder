@@ -1,3 +1,3 @@
 # Simple-Encoder-Decoder
 
-Encode or decode with simple steps
+Encode or decode with simple steps. Try it!!
